@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "paper-selection": {
+      "hosting": {
+        "PaperSelection2": [
+          "paper-selection"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "paper-selection"
+  }
+}
